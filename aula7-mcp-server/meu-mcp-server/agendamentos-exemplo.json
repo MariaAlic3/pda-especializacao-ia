@@ -1,0 +1,14 @@
+[
+  {
+    "cliente": "Ana Souza",
+    "servico": "Corte de cabelo",
+    "data": "2026-10-28",
+    "horario": "14:00"
+  },
+  {
+    "cliente": "Beatriz Lima",
+    "servico": "Manicure",
+    "data": "2026-10-28",
+    "horario": "15:30"
+  }
+]
